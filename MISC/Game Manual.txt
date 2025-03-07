@@ -1,0 +1,4 @@
+盾 = shield = tate = たて => indikátor štítu
+滑 = slide = suberu = すべ => indikátor počtu útoků
+命 = life force = inochi = いのち => indikátor životů
+気 = spirit = ki = き => indikátor levelu
